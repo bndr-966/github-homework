@@ -1,0 +1,4 @@
+My name is Bandr Bin Msfer AL_yami.
+My field is about.txt.
+My favorite programming language is Python.
+I want to learn Git and GitHub to manage code and projects.
